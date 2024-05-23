@@ -4,7 +4,7 @@ Meu nome é Nicole Lisboa
 
 - estou estunando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para organização e compartilhamento dos meus projetos dsenvolvidos
+- utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você pode entrar em contato comigo pelo meu email 📬
 00001107294927SP@al.educacao.sp.gov.br
